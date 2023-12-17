@@ -1,0 +1,2 @@
+# NewProjectDjango
+Implementing here DjangoCrudOperations.
